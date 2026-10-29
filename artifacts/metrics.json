@@ -1,0 +1,11 @@
+{
+  "dataset": "Scikit-learn Iris bundled public dataset",
+  "seed": 42,
+  "mode": "mlops",
+  "metric": "Holdout accuracy",
+  "models": {
+    "Logistic Regression": 0.907,
+    "Random Forest": 0.907
+  },
+  "note": "This is a local release, test and drift demonstration; no actual MLflow registry, public cloud deployment or automated retraining."
+}
